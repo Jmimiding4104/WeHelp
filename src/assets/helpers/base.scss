@@ -1,0 +1,35 @@
+@import url('http://www.google.com/fonts/earlyaccess');
+
+@font-face {
+  font-family: 'cwTeXYen';
+  font-style: normal;
+  font-weight: 500;
+  src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
+  src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
+       url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
+       url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
+       url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
+}
+
+body{
+  font-family: cwTeXYen;
+}
+
+a {
+  text-decoration: none;
+}
+
+.mw-80p{
+  max-width: 80%;
+  margin: 0 auto;
+}
+
+.router-link-active{
+  font-weight: 700;
+}
+
+@include media-breakpoint-up(md) {
+  .nav-link {
+    border: none !important;
+  }
+}
