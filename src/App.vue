@@ -1,6 +1,6 @@
 <script setup>
 import { RouterView } from 'vue-router'
-import VueLoading from './components/VueLoading.vue';
+import VueLoading from './components/VueLoading.vue'
 </script>
 
 <template>

@@ -8,7 +8,7 @@
         >
           <div class="d-flex flex-column justify-content-center pt-5 px-5 pb-3">
             <img
-              src="../assets/images/5415.jpg"
+              src="../assets/images/S__31932422.jpg"
               class="img-fluid rounded-circle title-img"
               alt="大頭照"
             />
@@ -17,13 +17,13 @@
           </div>
           <ul class="d-flex justify-content-between list-unstyled mb-0 px-5 py-3">
             <li>
-              <a href="#"><i class="bi bi-facebook"></i></a>
+              <a href="https://www.facebook.com/te.b.gan/"><i class="bi bi-facebook"></i></a>
             </li>
             <li>
-              <a href=""><i class="bi bi-instagram"></i></a>
+              <a href="https://www.instagram.com/x6xxvx/"><i class="bi bi-instagram"></i></a>
             </li>
             <li>
-              <a href=""><i class="bi bi-github"></i></a>
+              <a href="https://github.com/Jmimiding4104/wewe"><i class="bi bi-github"></i></a>
             </li>
           </ul>
         </div>
@@ -40,15 +40,8 @@
                 </button>
               </div>
             </div>
-            <p class="card-text mt-3">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, incidunt ipsum,
-              omnis accusantium quaerat quasi velit quia unde delectus maxime veritatis at hic ad
-              assumenda deserunt exLorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur,
-              incidunt ipsum, omnis accusantium quaerat quasi velit quia unde delectus maxime
-              veritatis at hic ad assumenda deserunt ex voluptatem placeat odit?dolor sit amet
-              consectetur adipisicing elit. Tenetur, incidunt ipsum, omnis accusantium quaerat quasi
-              velit quia unde delectus maxime veritatis at hic ad assumenda deserunt ex voluptatem
-              placeat odit?
+            <p class="card-text mt-3 fs-3">
+              我的名字叫做劉珉堯，希望這次能參與 WeHelp 的計畫，能學習到更多前後端的相關專業知識，並運用將自己成功成為業界會採用的後端工程師人才，我相信您選擇我一定是值得的選擇。
             </p>
           </div>
         </div>

@@ -8,20 +8,15 @@
 import Loading from 'vue-loading-overlay'
 import 'vue-loading-overlay/dist/css/index.css'
 import { loadingStore } from '@/stores/loading'
-import { defineComponent } from 'vue'
-
-import { computed } from 'vue'
+import { defineComponent, computed } from 'vue'
 
 export default defineComponent({
   components: {
     Loading
   },
   setup() {
-    const loading = loadingStore() // 正确在 setup 中获取 store 实例
-
-    // 直接在 setup 中使用 store 的 state 和 actions
+    const loading = loadingStore()
     loading.doAjax()
-
     const isLoading = computed(() => loading.isLoading)
     const fullPage = computed(() => loading.fullPage)
 

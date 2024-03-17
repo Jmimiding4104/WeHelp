@@ -1,7 +1,6 @@
-import { defineStore } from 'pinia';
+import { defineStore } from 'pinia'
 
 export const loadingStore = defineStore('loading', {
-
   state: () => ({
     isLoading: false,
     fullPage: true
@@ -13,5 +12,5 @@ export const loadingStore = defineStore('loading', {
         this.isLoading = false
       }, 700)
     }
-  },
-});
+  }
+})

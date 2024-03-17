@@ -38,8 +38,8 @@ export default {
     ResumeSwiper
   },
   setup() {
-    let experience = ref({})
-    let education = ref({})
+    const experience = ref({})
+    const education = ref({})
     const swiper = ref(null)
     onMounted(() => {
       axios.get('https://myblogapi-v3b7.onrender.com/experience').then((res) => {

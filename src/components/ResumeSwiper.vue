@@ -59,8 +59,6 @@ export default {
   setup() {
     const swiper = ref(null)
     const data = ref(null)
-
-
     onMounted(() => {
       setTimeout(() => {
         data.value = 'RENDER 尚在熱機，請稍等~'

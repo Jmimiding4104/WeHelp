@@ -13,13 +13,13 @@
         <h3 class="fs-6">FOLLOW</h3>
         <ul class="d-flex justify-content-around list-unstyled">
           <li>
-            <a href="#"><i class="bi bi-facebook"></i></a>
+            <a href="https://www.facebook.com/te.b.gan/"><i class="bi bi-facebook"></i></a>
           </li>
           <li>
-            <a href=""><i class="bi bi-instagram"></i></a>
+            <a href="https://www.instagram.com/x6xxvx/"><i class="bi bi-instagram"></i></a>
           </li>
           <li>
-            <a href=""><i class="bi bi-github"></i></a>
+            <a href="https://github.com/Jmimiding4104/wewe"><i class="bi bi-github"></i></a>
           </li>
         </ul>
       </li>
